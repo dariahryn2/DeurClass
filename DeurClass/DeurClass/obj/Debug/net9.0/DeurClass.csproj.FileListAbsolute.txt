@@ -1,0 +1,15 @@
+C:\Users\Dasha\Documents\GitHub\DeurClass\DeurClass\DeurClass\bin\Debug\net9.0\DeurClass.exe
+C:\Users\Dasha\Documents\GitHub\DeurClass\DeurClass\DeurClass\bin\Debug\net9.0\DeurClass.deps.json
+C:\Users\Dasha\Documents\GitHub\DeurClass\DeurClass\DeurClass\bin\Debug\net9.0\DeurClass.runtimeconfig.json
+C:\Users\Dasha\Documents\GitHub\DeurClass\DeurClass\DeurClass\bin\Debug\net9.0\DeurClass.dll
+C:\Users\Dasha\Documents\GitHub\DeurClass\DeurClass\DeurClass\bin\Debug\net9.0\DeurClass.pdb
+C:\Users\Dasha\Documents\GitHub\DeurClass\DeurClass\DeurClass\obj\Debug\net9.0\DeurClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dasha\Documents\GitHub\DeurClass\DeurClass\DeurClass\obj\Debug\net9.0\DeurClass.AssemblyInfoInputs.cache
+C:\Users\Dasha\Documents\GitHub\DeurClass\DeurClass\DeurClass\obj\Debug\net9.0\DeurClass.AssemblyInfo.cs
+C:\Users\Dasha\Documents\GitHub\DeurClass\DeurClass\DeurClass\obj\Debug\net9.0\DeurClass.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\Documents\GitHub\DeurClass\DeurClass\DeurClass\obj\Debug\net9.0\DeurClass.sourcelink.json
+C:\Users\Dasha\Documents\GitHub\DeurClass\DeurClass\DeurClass\obj\Debug\net9.0\DeurClass.dll
+C:\Users\Dasha\Documents\GitHub\DeurClass\DeurClass\DeurClass\obj\Debug\net9.0\refint\DeurClass.dll
+C:\Users\Dasha\Documents\GitHub\DeurClass\DeurClass\DeurClass\obj\Debug\net9.0\DeurClass.pdb
+C:\Users\Dasha\Documents\GitHub\DeurClass\DeurClass\DeurClass\obj\Debug\net9.0\DeurClass.genruntimeconfig.cache
+C:\Users\Dasha\Documents\GitHub\DeurClass\DeurClass\DeurClass\obj\Debug\net9.0\ref\DeurClass.dll

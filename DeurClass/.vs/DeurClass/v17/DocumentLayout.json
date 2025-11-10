@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dasha\\Documents\\GitHub\\DeurClass\\DeurClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A40191C3-DB99-4268-9617-BEBF31F36FEB}|DeurClass\\DeurClass.csproj|c:\\users\\dasha\\documents\\github\\deurclass\\deurclass\\deurclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40191C3-DB99-4268-9617-BEBF31F36FEB}|DeurClass\\DeurClass.csproj|solutionrelative:deurclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dasha\\Documents\\GitHub\\DeurClass\\DeurClass\\DeurClass\\Program.cs",
+              "RelativeDocumentMoniker": "DeurClass\\Program.cs",
+              "ToolTip": "C:\\Users\\Dasha\\Documents\\GitHub\\DeurClass\\DeurClass\\DeurClass\\Program.cs",
+              "RelativeToolTip": "DeurClass\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:07:59.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
